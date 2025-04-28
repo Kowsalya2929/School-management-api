@@ -12,6 +12,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon server.js",
+    "build": "echo 'Nothing to build'",
     "start": "node server.js"
   },
   "keywords": [],
